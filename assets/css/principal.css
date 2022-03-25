@@ -1,4 +1,10 @@
 body{
     color: aliceblue;
-    background-color: black
+    background-color: gray;
+}
+
+#logo img{
+    width: 150px;
+    border: 5px solid #d8d8d8;
+    border-radius: 20px;
 }
